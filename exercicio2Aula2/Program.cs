@@ -12,7 +12,7 @@ namespace exercicio2Aula2
             precototal = Double.Parse(Console.ReadLine());
 
             if(precototal <= 100){
-                precototal = precototal - 25;
+                precototal -=  25;
             }
 
             Console.Write(precototal);
