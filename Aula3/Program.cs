@@ -41,14 +41,14 @@ namespace Aula3 {
                 }
                 Console.WriteLine ("Média das notas:   " + (acumuladora / cont));
 
+                //LAÇO CONDICIONAL - DO / WHITE
+               
+                int numeroI = 0;
+                int contadora = 1;
                 do {
-
-                
-                
-                
-                
-                
-                } while ();
+                    numeroI = (contadora % 3) == 0));
+                                                      
+                 } while ();
             }
 
         }

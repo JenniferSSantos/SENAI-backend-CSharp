@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-backend-CSharp\ExercicioRepitido\bin\Debug\netcoreapp2.2\ExercicioRepitido.deps.json
+C:\Users\fic\Desktop\SENAI-backend-CSharp\ExercicioRepitido\bin\Debug\netcoreapp2.2\ExercicioRepitido.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-backend-CSharp\ExercicioRepitido\bin\Debug\netcoreapp2.2\ExercicioRepitido.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-backend-CSharp\ExercicioRepitido\bin\Debug\netcoreapp2.2\ExercicioRepitido.dll
+C:\Users\fic\Desktop\SENAI-backend-CSharp\ExercicioRepitido\bin\Debug\netcoreapp2.2\ExercicioRepitido.pdb
+C:\Users\fic\Desktop\SENAI-backend-CSharp\ExercicioRepitido\obj\Debug\netcoreapp2.2\ExercicioRepitido.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-backend-CSharp\ExercicioRepitido\obj\Debug\netcoreapp2.2\ExercicioRepitido.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-CSharp\ExercicioRepitido\obj\Debug\netcoreapp2.2\ExercicioRepitido.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-CSharp\ExercicioRepitido\obj\Debug\netcoreapp2.2\ExercicioRepitido.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-backend-CSharp\ExercicioRepitido\obj\Debug\netcoreapp2.2\ExercicioRepitido.dll
+C:\Users\fic\Desktop\SENAI-backend-CSharp\ExercicioRepitido\obj\Debug\netcoreapp2.2\ExercicioRepitido.pdb
