@@ -16,7 +16,7 @@ namespace Aula6_2_CPF
 
         static bool ValidaCPF( string cpfUsuario ){
 
-            bool resultado      = false;
+          bool resultado      = false;
             int[] v1            = { 10, 9, 8, 7, 6, 5, 4, 3, 2 };
 
             string cpfCalculo   = "";
@@ -29,7 +29,7 @@ namespace Aula6_2_CPF
             cpfCalculo = cpfUsuario.Substring(0, 9);
 
             for(int i= 0; i <= 8; i++){
-                calculo += int.Parse(cpfCalculo[i].ToString()) * v1[i];
+               
             }
 
             resto   = calculo % 11;

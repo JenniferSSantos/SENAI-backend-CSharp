@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-backend-CSharp\Ex1Funcoes\bin\Debug\netcoreapp2.2\Ex1Funcoes.deps.json
+C:\Users\fic\Desktop\SENAI-backend-CSharp\Ex1Funcoes\bin\Debug\netcoreapp2.2\Ex1Funcoes.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-backend-CSharp\Ex1Funcoes\bin\Debug\netcoreapp2.2\Ex1Funcoes.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-backend-CSharp\Ex1Funcoes\bin\Debug\netcoreapp2.2\Ex1Funcoes.dll
+C:\Users\fic\Desktop\SENAI-backend-CSharp\Ex1Funcoes\bin\Debug\netcoreapp2.2\Ex1Funcoes.pdb
+C:\Users\fic\Desktop\SENAI-backend-CSharp\Ex1Funcoes\obj\Debug\netcoreapp2.2\Ex1Funcoes.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-backend-CSharp\Ex1Funcoes\obj\Debug\netcoreapp2.2\Ex1Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-CSharp\Ex1Funcoes\obj\Debug\netcoreapp2.2\Ex1Funcoes.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-CSharp\Ex1Funcoes\obj\Debug\netcoreapp2.2\Ex1Funcoes.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-backend-CSharp\Ex1Funcoes\obj\Debug\netcoreapp2.2\Ex1Funcoes.dll
+C:\Users\fic\Desktop\SENAI-backend-CSharp\Ex1Funcoes\obj\Debug\netcoreapp2.2\Ex1Funcoes.pdb
